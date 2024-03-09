@@ -18,13 +18,6 @@ export default function App() {
                     />
                     <i className="bx bxs-envelope"></i>
                 </div>
-                {/* <div className="remember-forgot">
-                    <label>
-                        <input type="checkbox" />
-                        Remember me
-                    </label>
-                    <a href="#"> Forgot Password?</a>
-                </div> */}
                 <button type="submit" className="btn">
                     Submit
                 </button>
